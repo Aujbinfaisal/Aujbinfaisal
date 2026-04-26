@@ -25,5 +25,7 @@ I am top 100 in a platformer game called Astro's Playroom on the PS5! I love the
 | :--- | :--- | :--- | :--- |
 | **Portfolio Site** | My personal portfolio website | React, Tailwind | [View Repo](https://github.com) |
 | **Task Master** | A simple task management app | Node.js, MongoDB | [View Repo](https://github.com) |
+| **Portfolio Site** | My personal portfolio website | React, Tailwind | [View Repo](https://github.com) |
+| **Task Master** | A simple task management app | Node.js, MongoDB | [View Repo](https://github.com) |
 
 
