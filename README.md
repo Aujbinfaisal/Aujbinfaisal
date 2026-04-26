@@ -25,7 +25,7 @@ I am top 100 in a platformer game called Astro's Playroom on the PS5! I love the
 | :--- | :--- | :--- | :--- |
 | **SH-BAM** | Full stack multi agentic system for medical report generation, including synthesis or querying with a built-in feedback form  | React, Python, ChromaDB | [View Repo](https://github.com/michelle-tanner/SH-BAM) |
 | **Programming crash course** | A crash course in coding using turtle graphics | Python | [View Repo](https://github.com/Aujbinfaisal/Programming-crash-course/blob/main/README.md) |
-| **Rubiks Racers** | An arduino project using 3 microprocessors utilizing serial communication | Node.js, MongoDB | [View Repo](https://github.com/ebrizuela1/Rubiks-Racer) |
+| **Rubiks Racers** | An arduino project using 3 microprocessors utilizing serial communication | Arduino | [View Repo](https://github.com/ebrizuela1/Rubiks-Racer) |
 | **SeaJobs++** | A bidding website in the terminal | C++ | [View Repo](https://github.com/Aujbinfaisal/Sparkhacks_25) |
 
 
