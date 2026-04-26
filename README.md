@@ -18,4 +18,12 @@ Tools: VS Code, PyCharm, IDLE, Vi/Vim, Valgrind, Git, GDB
 CS Topics: Data Structures & Algorithms, Object-Oriented Programming, Memory Management
 
 Fun fact:
-I am top 100 in a platformer game called Astro's Playroom on the PS5! I love the speedrunning levels in this game.
+I am top 100 in a platformer game called Astro's Playroom on the PS5! I love the speedrunning levels in this game
+
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Portfolio Site** | My personal portfolio website | React, Tailwind | [View Repo](https://github.com) |
+| **Task Master** | A simple task management app | Node.js, MongoDB | [View Repo](https://github.com) |
+
+
